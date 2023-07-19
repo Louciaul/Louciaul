@@ -2,7 +2,7 @@
 
 ## I'm a engineering student in IoT and Networks at Télécom Physique Strasbourg
 
-Some of the projects that I have done can be found there, feel free to contact me 🙂 </p>
+Some of the projects that I have done during my studies can be found there, feel free to contact me 🙂 </p>
 
 ### Computing skills:
 
