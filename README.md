@@ -1,4 +1,4 @@
-![image](https://github.com/Louciaul/Louciaul/assets/106164198/ca74dbed-21ff-40dc-b0e4-507276dad9da)###  Hi there 👋, I'm Arnaud
+###  Hi there 👋, I'm Arnaud
 
 ## I'm a engineering student in IoT and Networks at Télécom Physique Strasbourg
 
@@ -6,7 +6,7 @@ Some of the projects that I have done can be found there, feel free to contact m
 
 ### Computing skills:
 
-[C](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png) [C++](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png) [Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png) [Java](https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png)
+![C](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png) ![C++](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png) [Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png) ![Java](https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png)
 
 <!--
 **Louciaul/Louciaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
