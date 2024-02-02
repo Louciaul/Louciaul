@@ -1,6 +1,6 @@
 # <p align="center"> Hi there 👋, I'm Arnaud
 
-## I'm a engineering student in IoT and Networks at Télécom Physique Strasbourg
+## I'm an engineering student in IoT and Networks at Télécom Physique Strasbourg
 
 Some of the projects that I have done during my studies can be found there, feel free to contact me 🙂 </p>
 
