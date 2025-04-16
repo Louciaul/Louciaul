@@ -1,10 +1,10 @@
 # <p align="center"> Hi there 👋, I'm Arnaud
 
-## I'm a DevOps engineer with some skills in IoT and Networks
+## I'm a Cloud & DevOps engineer with some skills in IoT and Networks
 
 Some of the projects that I have done during my studies can be found there, feel free to contact me 🙂 </p>
 
-- 🌱 I’m currently learning Network engineering, cloud, wireless network and IoT
+- 🌱 I’m currently practicing in order to pass the AZ-104 certification
 
 ### Computing skills:
 
